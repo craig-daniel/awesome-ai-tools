@@ -441,6 +441,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 - [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
 - [Harbor](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+- - [Muse老大的小点](https://www.16688.com.cn/shop/S165977) - AI subscription deals & accounts store — reseller of ChatGPT/Claude/Gemini subscriptions, top-ups and activation keys. Also on 链动小铺: https://wzyp.cn/shop/BQ4CP1P2
 
 
 ## Learning resources
